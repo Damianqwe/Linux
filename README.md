@@ -18,3 +18,9 @@
 15. `rm` - remove
 16. `cp` - copy
 17. `mv` - move
+
+### To update on github
+
+18. git add `file name`
+19. git commit -m`"meaning full message"`
+20. git push -u origin master
